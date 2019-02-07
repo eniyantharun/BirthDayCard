@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BirthDay Card</string>
+    <string name="from_tharun">From Tharun,</string>
+    <string name="to_darren">To Darren</string>
+</resources>
